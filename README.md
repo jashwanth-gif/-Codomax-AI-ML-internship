@@ -59,3 +59,33 @@ I understood the basics of numerical data handling using NumPy and learned why i
 
 ## Status
 Day 3 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 4
+
+## Description
+This repository contains my Day 4 internship task for the Codomax AI/ML program.  
+Today I learned Pandas basics by loading the student scores dataset and exploring the data.
+
+## Topics Covered
+- Reading CSV file
+- Displaying first and last rows
+- Checking shape and columns
+- Understanding data types
+- Using info() and describe()
+- Accessing rows using iloc and loc
+- Checking null values
+- Filtering data based on conditions
+
+## Learning Outcome
+I learned how to load a dataset in Pandas and explore it step by step like a beginner data science task.
+
+## Tools Used
+- Python
+- Pandas
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 4 task completed successfully.
