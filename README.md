@@ -89,3 +89,30 @@ I learned how to load a dataset in Pandas and explore it step by step like a beg
 
 ## Status
 Day 4 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 5
+
+## Description
+This repository contains my Day 5 internship task for the Codomax AI/ML program.  
+Today I learned data cleaning using Pandas by handling missing values and removing duplicate rows.
+
+## Topics Covered
+- Checking missing values
+- Removing duplicate rows
+- Filling missing values
+- Dropping rows with missing values
+- Understanding basic dataset statistics
+
+## Learning Outcome
+I learned how to clean a dataset and prepare it for analysis and machine learning tasks.
+
+## Tools Used
+- Python
+- Pandas
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 5 task completed successfully.
