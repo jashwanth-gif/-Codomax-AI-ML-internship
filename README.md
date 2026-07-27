@@ -116,3 +116,29 @@ I learned how to clean a dataset and prepare it for analysis and machine learnin
 
 ## Status
 Day 5 task completed successfully.
+
+# Codomax AI/ML Internship - Day 6
+
+## Description
+This repository contains my Day 6 internship task for the Codomax AI/ML program.  
+Today I learned data visualization using Matplotlib by creating line charts, bar charts, and scatter plots.
+
+## Topics Covered
+- Line chart
+- Bar chart
+- Scatter plot
+- Adding title and labels
+- Showing graphs using plt.show()
+
+## Learning Outcome
+I learned how to create basic charts in Python and understand simple data visualization.
+
+## Tools Used
+- Python
+- Matplotlib
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 6 task completed successfully.
