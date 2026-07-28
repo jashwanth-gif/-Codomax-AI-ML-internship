@@ -142,3 +142,31 @@ I learned how to create basic charts in Python and understand simple data visual
 
 ## Status
 Day 6 task completed successfully.
+
+# Codomax AI/ML Internship - Day 7
+
+## Description
+This repository contains my Day 7 internship task for the Codomax AI/ML program.  
+Today I learned the basics of machine learning using Linear Regression and train-test split.
+
+## Topics Covered
+- Supervised learning basics
+- Train-test split
+- Linear Regression
+- Fitting the model
+- Making predictions
+- Evaluating the model with MAE, MSE, and R2 Score
+
+## Learning Outcome
+I learned how to build a simple prediction model using Scikit-learn and understand basic machine learning workflow.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 7 task completed successfully.
