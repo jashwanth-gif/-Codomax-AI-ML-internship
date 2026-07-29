@@ -170,3 +170,32 @@ I learned how to build a simple prediction model using Scikit-learn and understa
 
 ## Status
 Day 7 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 8
+
+## Description
+This repository contains my Day 8 internship task for the Codomax AI/ML program.  
+Today I built a Linear Regression model using Scikit-learn and trained it with the student scores dataset.
+
+## Topics Covered
+- Selecting features and target
+- Train-test split
+- Building a Linear Regression model
+- Training the model on the dataset
+- Making predictions
+- Evaluating the model with MAE, MSE, and R2 Score
+
+## Learning Outcome
+I learned how to take a cleaned dataset, build a regression model, train it, and check how well it performs.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 8 task completed successfully.
