@@ -199,3 +199,29 @@ I learned how to take a cleaned dataset, build a regression model, train it, and
 
 ## Status
 Day 8 task completed successfully.
+
+# Codomax AI/ML Internship - Day 9
+
+## Description
+This repository contains my Day 9 internship task for the Codomax AI/ML program.  
+Today I used the trained Linear Regression model to predict student scores based on study hours.
+
+## Topics Covered
+- Using a trained model for prediction
+- Predicting scores for test data
+- Predicting scores for custom study hours
+- Understanding how study hours affect predicted scores
+
+## Learning Outcome
+I learned how to use a machine learning model to make real predictions and see how input values change the output.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 9 task completed successfully.
