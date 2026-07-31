@@ -225,3 +225,31 @@ I learned how to use a machine learning model to make real predictions and see h
 
 ## Status
 Day 9 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 10
+
+## Description
+This repository contains my Day 10 internship task for the Codomax AI/ML program.  
+Today I evaluated the Linear Regression model using common regression metrics.
+
+## Topics Covered
+- Model evaluation basics
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R2 Score
+
+## Learning Outcome
+I learned how to measure the performance of a regression model and understand how close the predictions are to the actual scores.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 10 task completed successfully.
