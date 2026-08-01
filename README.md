@@ -253,3 +253,31 @@ I learned how to measure the performance of a regression model and understand ho
 
 ## Status
 Day 10 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 11
+
+## Description
+This repository contains my Day 11 internship task for the Codomax AI/ML program.  
+Today I created a simple Python prediction program where the user enters study hours and gets a predicted score.
+
+## Topics Covered
+- Loading dataset
+- Train-test split
+- Linear Regression model
+- Taking user input
+- Predicting score from study hours
+
+## Learning Outcome
+I learned how to make a small prediction app using a trained machine learning model.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 11 task completed successfully.
