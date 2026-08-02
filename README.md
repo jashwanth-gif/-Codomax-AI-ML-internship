@@ -281,3 +281,13 @@ I learned how to make a small prediction app using a trained machine learning mo
 
 ## Status
 Day 11 task completed successfully.
+## Day 12 – Project Improvement
+
+On Day 12, I focused on improving the overall project structure:
+
+- Organized files into `data/`, `notebooks/`, `src/`, and `images/`.
+- Added comments and markdown headings to the notebooks.
+- Cleaned up the model evaluation notebook for better readability.
+- Documented the prediction app script for Day 11.
+
+This makes the Codomax student score prediction project easier to understand and reuse.
