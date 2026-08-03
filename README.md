@@ -1,0 +1,302 @@
+# Codomax AI/ML Internship - Day 1
+
+## Description
+Day 1 setup task for AI/ML internship.
+
+## Tasks Completed
+- Installed Python
+- Installed VS Code
+- Installed Jupyter Notebook
+- Installed Git and created GitHub repository
+- Ran first Python program
+
+
+# Codomax AI/ML Internship - Day 2
+
+This repository contains my Day 2 task for the AI/ML internship at Codomax.  
+I practiced Python basics such as variables, data types, operators, loops, functions, and simple programs.
+
+## Completed
+- Variables and data types
+- Operators
+- Conditional statements
+- Loops
+- Functions
+- Basic practice programs
+
+## Tools Used
+- Python
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+# Codomax AI/ML Internship - Day 3
+
+## Description
+This repository contains my Day 3 internship task for the Codomax AI/ML program.  
+Today I learned NumPy fundamentals and practiced working with arrays, indexing, slicing, reshape, transpose, and basic mathematical operations.
+
+## Topics Covered
+- NumPy arrays
+- Shape, size, and dimensions
+- Indexing and slicing
+- Mathematical operations
+- Mean, sum, max, and min
+- Reshape and transpose
+- Concatenation and stacking
+- Splitting arrays
+- Boolean indexing
+
+## Learning Outcome
+I understood the basics of numerical data handling using NumPy and learned why it is important for AI, ML, and data science.
+
+## Tools Used
+- Python
+- NumPy
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 3 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 4
+
+## Description
+This repository contains my Day 4 internship task for the Codomax AI/ML program.  
+Today I learned Pandas basics by loading the student scores dataset and exploring the data.
+
+## Topics Covered
+- Reading CSV file
+- Displaying first and last rows
+- Checking shape and columns
+- Understanding data types
+- Using info() and describe()
+- Accessing rows using iloc and loc
+- Checking null values
+- Filtering data based on conditions
+
+## Learning Outcome
+I learned how to load a dataset in Pandas and explore it step by step like a beginner data science task.
+
+## Tools Used
+- Python
+- Pandas
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 4 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 5
+
+## Description
+This repository contains my Day 5 internship task for the Codomax AI/ML program.  
+Today I learned data cleaning using Pandas by handling missing values and removing duplicate rows.
+
+## Topics Covered
+- Checking missing values
+- Removing duplicate rows
+- Filling missing values
+- Dropping rows with missing values
+- Understanding basic dataset statistics
+
+## Learning Outcome
+I learned how to clean a dataset and prepare it for analysis and machine learning tasks.
+
+## Tools Used
+- Python
+- Pandas
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 5 task completed successfully.
+
+# Codomax AI/ML Internship - Day 6
+
+## Description
+This repository contains my Day 6 internship task for the Codomax AI/ML program.  
+Today I learned data visualization using Matplotlib by creating line charts, bar charts, and scatter plots.
+
+## Topics Covered
+- Line chart
+- Bar chart
+- Scatter plot
+- Adding title and labels
+- Showing graphs using plt.show()
+
+## Learning Outcome
+I learned how to create basic charts in Python and understand simple data visualization.
+
+## Tools Used
+- Python
+- Matplotlib
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 6 task completed successfully.
+
+# Codomax AI/ML Internship - Day 7
+
+## Description
+This repository contains my Day 7 internship task for the Codomax AI/ML program.  
+Today I learned the basics of machine learning using Linear Regression and train-test split.
+
+## Topics Covered
+- Supervised learning basics
+- Train-test split
+- Linear Regression
+- Fitting the model
+- Making predictions
+- Evaluating the model with MAE, MSE, and R2 Score
+
+## Learning Outcome
+I learned how to build a simple prediction model using Scikit-learn and understand basic machine learning workflow.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 7 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 8
+
+## Description
+This repository contains my Day 8 internship task for the Codomax AI/ML program.  
+Today I built a Linear Regression model using Scikit-learn and trained it with the student scores dataset.
+
+## Topics Covered
+- Selecting features and target
+- Train-test split
+- Building a Linear Regression model
+- Training the model on the dataset
+- Making predictions
+- Evaluating the model with MAE, MSE, and R2 Score
+
+## Learning Outcome
+I learned how to take a cleaned dataset, build a regression model, train it, and check how well it performs.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 8 task completed successfully.
+
+# Codomax AI/ML Internship - Day 9
+
+## Description
+This repository contains my Day 9 internship task for the Codomax AI/ML program.  
+Today I used the trained Linear Regression model to predict student scores based on study hours.
+
+## Topics Covered
+- Using a trained model for prediction
+- Predicting scores for test data
+- Predicting scores for custom study hours
+- Understanding how study hours affect predicted scores
+
+## Learning Outcome
+I learned how to use a machine learning model to make real predictions and see how input values change the output.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 9 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 10
+
+## Description
+This repository contains my Day 10 internship task for the Codomax AI/ML program.  
+Today I evaluated the Linear Regression model using common regression metrics.
+
+## Topics Covered
+- Model evaluation basics
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R2 Score
+
+## Learning Outcome
+I learned how to measure the performance of a regression model and understand how close the predictions are to the actual scores.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 10 task completed successfully.
+
+
+# Codomax AI/ML Internship - Day 11
+
+## Description
+This repository contains my Day 11 internship task for the Codomax AI/ML program.  
+Today I created a simple Python prediction program where the user enters study hours and gets a predicted score.
+
+## Topics Covered
+- Loading dataset
+- Train-test split
+- Linear Regression model
+- Taking user input
+- Predicting score from study hours
+
+## Learning Outcome
+I learned how to make a small prediction app using a trained machine learning model.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- VS Code
+- Jupyter Notebook
+- GitHub
+
+## Status
+Day 11 task completed successfully.
+## Day 12 – Project Improvement
+
+On Day 12, I focused on improving the overall project structure:
+
+- Organized files into `data/`, `notebooks/`, `src/`, and `images/`.
+- Added comments and markdown headings to the notebooks.
+- Cleaned up the model evaluation notebook for better readability.
+- Documented the prediction app script for Day 11.
+
+This makes the Codomax student score prediction project easier to understand and reuse.
+## Day 13 – GitHub Upload
+
+On Day 13, I published the Codomax student score prediction project to GitHub:
+
+- Uploaded the cleaned dataset (`student_scores.csv`).
+- Added the main notebooks and Python scripts for Days 7–12.
+- Included screenshots of the model evaluation and prediction app.
+- Updated `README.md` to document all internship days.
+
