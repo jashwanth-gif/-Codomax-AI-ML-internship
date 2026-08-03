@@ -291,3 +291,12 @@ On Day 12, I focused on improving the overall project structure:
 - Documented the prediction app script for Day 11.
 
 This makes the Codomax student score prediction project easier to understand and reuse.
+## Day 13 – GitHub Upload
+
+On Day 13, I published the Codomax student score prediction project to GitHub:
+
+- Uploaded the cleaned dataset (`student_scores.csv`).
+- Added the main notebooks and Python scripts for Days 7–12.
+- Included screenshots of the model evaluation and prediction app.
+- Updated `README.md` to document all internship days.
+
